@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @jrleech
 - 👀 I’m a Computer Information Systems Major at Clemson University
-- 💞️ I’m currently an engineering intern at JR Butler
+- I'm currently a data engineering intern at USAA
+- 💞️ I’m formerly an engineering intern at JR Butler
 - 📫 How to reach me jacksonleechiv@gmail.com
 
 <!---
